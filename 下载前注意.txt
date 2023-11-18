@@ -1,0 +1,10 @@
+﻿打包命令：
+pyinstaller --add-data 'images:images' -F -w --icon="D:\DeskTop\12306查票与抢票\images\favicon.ico" Main.py -p AccountIO.py -p Automatic_Buy.py -p Dat
+a_Query.py -p info.py --hidden-import AccountIO.py --hidden-import A
+utomatic_Buy.py --hidden-import Data_Query --hidden-import info.py
+
+上面的icon路径改成你对应地址的路径
+
+Main.py是程序入口
+
+项目免费，帮我点颗Star，谢谢啦~~~
