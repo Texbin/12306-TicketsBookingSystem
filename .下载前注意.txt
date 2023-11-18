@@ -7,4 +7,4 @@ utomatic_Buy.py --hidden-import Data_Query --hidden-import info.py
 
 Main.py是程序入口
 
-最后，帮我点颗免费Star，大家一起进步，谢谢啦~~~
+项目免费，帮我点颗Star，谢谢啦~~~
